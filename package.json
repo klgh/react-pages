@@ -1,7 +1,7 @@
 {
   "name": "react-pages",
   "version": "0.1.0",
-  "homepage": "http://klgh.github.io/react",
+  "homepage": "http://klgh.github.io/react-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
